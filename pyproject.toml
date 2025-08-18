@@ -1,0 +1,2 @@
+[tool.mypy]
+show_error_codes = true
