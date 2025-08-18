@@ -1,2 +1,3 @@
 [tool.mypy]
 show_error_codes = true
+#disable_error_code = ["misc"]
