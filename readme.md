@@ -1,3 +1,6 @@
+
+https://python-type-challenges.zeabur.app
+
 docker build --no-cache --squash -t python_hw_3 -f Dockerfile .
 
 
