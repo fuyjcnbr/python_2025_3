@@ -23,16 +23,3 @@ make typing
 ```
 
 
-
-
-
-
-
-
-
-
-
-docker run -v ~/PycharmProjects/python_2025_3:/src -it python_hw_3 /bin/bash
-
-
-
